@@ -1,1 +1,1 @@
-# openPoseAbleThumbs.py
+# rockPaperScissors.py
